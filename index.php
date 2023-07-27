@@ -2,4 +2,4 @@
 
 echo 'ini projek PHP serius';
 
-echo 'imola ngebenerin sesuatu, sekarang udah pas';
+echo 'imola ngebenerin sesuatu, sekarang udah pas, tadi kurang pas';
